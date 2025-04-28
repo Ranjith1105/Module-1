@@ -1,4 +1,4 @@
-# Experiment No: 1c-Varibles and Expressions, Operators - Adding Two Complex Numbers
+# Experiment No: 1c-Varibles and Expressions, Operators - Using eval() for Basic Arithmetic Operations 
 
 ## AIM
 To write a Python program to read two integers and perform simple arithmetic calculations (+, -, *, /, //, %, **), using the eval() function.
@@ -22,8 +22,8 @@ Exponentiation (**)
 # Reg.No - 212223020021
 #Name - Ranjith P
 #Write your code here
-a=int(input())
-b=int(input())
+a=eval(input())
+b=eval(input())
 print(a+b)
 print(a-b)
 print(a*b)
