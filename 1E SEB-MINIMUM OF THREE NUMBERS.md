@@ -1,4 +1,4 @@
-# Experiment No: 1e – SEB-Minimum of Three Numbers
+# Experiment No: 1e – SEB-Check Traffic Condition Based on Road Coverage Using If-Else 
 
 ## AIM  
 To write a Python program to determine traffic status based on the fraction of roadways covered using conditional statements.
