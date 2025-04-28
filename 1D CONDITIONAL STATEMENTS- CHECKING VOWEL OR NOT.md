@@ -1,4 +1,4 @@
-## Experiment No: 1d – Conditional Statements- Checking Vowel or not
+## Experiment No: 1d – Conditional Statements- Finding the Minimum of Three Float Numbers Using the Ternary Operator 
 
 ## AIM  
 To write a Python program to find the minimum among three float numbers using the conditional expression (ternary operator)
