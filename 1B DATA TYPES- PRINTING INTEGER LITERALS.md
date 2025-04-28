@@ -1,4 +1,4 @@
-# Experiment No: 1B- Data Types – Printing Integer Literals
+# Experiment No: 1B- Data Types – Printing float values
 
 ## AIM  
 To  create a Python program to assign a float with 2 decimals to the variable (21.36).
