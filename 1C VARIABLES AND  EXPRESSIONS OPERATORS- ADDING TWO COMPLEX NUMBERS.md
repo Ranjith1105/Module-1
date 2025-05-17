@@ -1,4 +1,4 @@
-# Experiment No: 1c-Varibles and Expressions, Operators - Using eval() for Basic Arithmetic Operations 
+# Experiment No: 1c-Varibles and Expressions, Operators - for Basic Arithmetic Operations 
 
 ## AIM
 To write a Python program to read two integers and perform simple arithmetic calculations (+, -, *, /, //, %, **), using the eval() function.
