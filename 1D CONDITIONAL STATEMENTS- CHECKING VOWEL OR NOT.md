@@ -1,14 +1,20 @@
-## Experiment No: 1d – Conditional Statements- Finding the Minimum of Three Float Numbers Using the Ternary Operator 
+## Experiment No: 1d – Conditional Statements- Finding the Minimum of Three Float Numbers  
 
 ## AIM  
-To write a Python program to find the minimum among three float numbers using the conditional expression (ternary operator)
+To write a Python program to find the minimum among three float numbers using the conditional expression
 ## ALGORITHM  
 1.Begin the program.
+
 2.Use the eval() function to read three float numbers from the user.
+
 3.Print the float numbers entered by the user.
+
 4.Use nested conditional (ternary) expressions to find the smallest number.
+
 5.Print the minimum number.
+
 6.Terminate the program.
+
 ## PROGRAM
 ```python
 # Reg.No - 212223020021
