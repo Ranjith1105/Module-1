@@ -5,8 +5,11 @@ To  create a Python program to assign a float with 2 decimals to the variable (2
 
 ## ALGORITHM  
 1.Start
+
 2.Define a variable global_mean_sea_level_2018 and assign it the value 21.36
-3.Print the value of the variable
+
+3.Print the value of the variable.
+
 4.End.
 
 ## PROGRAM
